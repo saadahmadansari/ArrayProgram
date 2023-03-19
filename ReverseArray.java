@@ -17,5 +17,6 @@ public class ReverseArray {
 			System.out.print(array[i]+" ");
 		}
 		scanner.close();
+//mustakim cpomment
 	}
 }

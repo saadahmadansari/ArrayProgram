@@ -17,5 +17,8 @@ public class ReverseArray {
 			System.out.print(array[i]+" ");
 		}
 		scanner.close();
+
+
+		//abcd
 	}
 }
